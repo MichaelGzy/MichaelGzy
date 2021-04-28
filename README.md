@@ -24,7 +24,7 @@ vx:NDI5NTM0NTMz (same)
 
 #### Donate
 
-![donate](/images/pay.png)
+![donate](https://www.zhenxishenghuo.club/images/pay.png)
 
 
 

@@ -2,7 +2,7 @@
 title: Hello World
 date: 2021-04-28 00:00:00
 categories: 技术篇
-thumbnail: https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fxxx.fishc.com%2Fforum%2F201706%2F13%2F200636xg4x373b3outolwt.png&refer=http%3A%2F%2Fxxx.fishc.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1622182700&t=c146f1a9a2256059c63cd7848ffe5aa8
+thumbnail: https://www.zhenxishenghuo.club/images/article/helloworld.jpg
 ---
 Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [documentation](https://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](https://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
 
