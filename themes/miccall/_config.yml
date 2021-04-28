@@ -5,7 +5,7 @@
 # Head info
 head:
     favicon: "/img/favicon.ico"
-    keywords: miccall
+    keywords: michaelgzy,草帅的人生
     backgroundpic : "img/bg.jpg"
 
 Intro:
@@ -27,14 +27,14 @@ Nav:
         michael: http://www.zhenxishenghuo.club
 
     pages:
-        简历:
-            link: "/about/"
-        团队 :
-            link: "/group/"
         图库 :
             link: "/gallery/"
         标签:
             link: "/tag/"
+        团队:
+            link: "/group/"
+        作者:
+            link: "/about/"
         #自定义标签名
         #   link：“路径”
 
