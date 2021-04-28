@@ -9,9 +9,9 @@ head:
     backgroundpic : "img/bg.jpg"
 
 Intro:
-    name: MICCALL
-    slogan: "Whatever is worth doing is worth doing well <br/> I'll think of you every step of the way"
-    HeadButton: MICCALL
+    name: Michael
+    slogan: "存在即是真理，哪怕不存在"
+    HeadButton: Michael
 
 Nav:
     Home_name: 主页
@@ -23,8 +23,8 @@ Nav:
     #Social
     # for more icons, please see http://fontawesome.io/icons/#brand
     icon:
-        github: https://github.com/miccall
-        500px: http://500px.com
+        github: https://github.com/michaelgzy
+        michael: http://github.zhenxishenghuo.club
 
     pages:
         简历:
@@ -39,8 +39,8 @@ Nav:
         #   link：“路径”
 
 MainFirst:
-    name: Miccall Metro
-    description: Technical  Artist  of  Games
+    name: Michael Gzy
+    description: An Normal Person
     pic_url: /images/me.jpg
     goto_ulr: ""
 
