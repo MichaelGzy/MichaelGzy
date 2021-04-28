@@ -42,7 +42,7 @@ MainFirst:
     name: Michael Gzy
     description: An Normal Person
     pic_url: /images/me.jpg
-    goto_ulr: ""
+    goto_ulr: "https://github.com/michaelgzy"
 
 Gallery :
     title: Mr.michael
