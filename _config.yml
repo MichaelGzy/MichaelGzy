@@ -3,17 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle: ''
+title: 珍惜生活网
+subtitle: '珍惜生活网，记录生活点滴，珍惜拥有'
 description: ''
-keywords:
-author: John Doe
+keywords: 草帅的人生，MG，珍惜生活网
+author: MG
 language: en
-timezone: ''
+timezone: 'UTC+8'
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://example.com
+url: https://zhenxishenghuo.club
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
