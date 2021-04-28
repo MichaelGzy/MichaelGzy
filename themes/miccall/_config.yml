@@ -4,7 +4,7 @@
 
 # Head info
 head:
-    favicon: "/img/logo_miccall.png"
+    favicon: "/img/favicon.ico"
     keywords: miccall
     backgroundpic : "img/bg.jpg"
 
