@@ -24,17 +24,17 @@ Nav:
     # for more icons, please see http://fontawesome.io/icons/#brand
     icon:
         github: https://github.com/michaelgzy
-          use: true # 是否启用
-          link: https://github.com/miccall # 点击地址
+            use: true # 是否启用
+            link: https://github.com/miccall # 点击地址
         Twitter:
-          use: true
-          link: http://www.zhenxishenghuo.club
+            use: true
+            link: http://www.zhenxishenghuo.club
         Facebook:
-          use: true
-          link: http://www.zhenxishenghuo.club
+            use: true
+            link: http://www.zhenxishenghuo.club
         Instagram:
-          use: true
-          link: http://www.zhenxishenghuo.club
+            use: true
+            link: http://www.zhenxishenghuo.club
 
     pages:
         图库 :
