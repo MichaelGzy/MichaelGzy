@@ -24,7 +24,17 @@ Nav:
     # for more icons, please see http://fontawesome.io/icons/#brand
     icon:
         github: https://github.com/michaelgzy
-        michael: http://www.zhenxishenghuo.club
+          use: true # 是否启用
+          link: https://github.com/miccall # 点击地址
+        Twitter:
+          use: true
+          link: http://www.zhenxishenghuo.club
+        Facebook:
+          use: true
+          link: http://www.zhenxishenghuo.club
+        Instagram:
+          use: true
+          link: http://www.zhenxishenghuo.club
 
     pages:
         图库 :
@@ -35,6 +45,8 @@ Nav:
             link: "/group/"
         作者:
             link: "/about/"
+        其他:
+            link: "/others/"
         #自定义标签名
         #   link：“路径”
 
@@ -46,7 +58,7 @@ MainFirst:
 
 Gallery :
     title: Mr.michael
-    description: Just another fine responsive
+    description: Remember the dida of life
 
 # ---------------------------------------------------------------
 # Style Settings
@@ -93,7 +105,7 @@ search:
 
 # Leancloud Views
 leancloud:
-    enable: false
+    enable: true
     app_id: #你的 app_id
     app_key: #你的 app_key
     av_core_mini: "https://cdn1.lncld.net/static/js/av-core-mini-0.6.1.js"
