@@ -39,3 +39,7 @@ $ hexo deploy
 ```
 
 More info: [Deployment](https://hexo.io/docs/one-command-deployment.html)
+
+#### Donate
+
+![donate](https://www.zhenxishenghuo.club/images/pay_info.png)
