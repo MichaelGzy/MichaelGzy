@@ -28,7 +28,7 @@ Nav:
         weibo: https://weibo.com/u/7586489380
 #        wechat: https://www.zhenxishenghuo.club/images/gzh.jpg
         wechat: http://mp.weixin.qq.com/mp/homepage?__biz=MzIxNjc4NTUwOA==&hid=8&sn=bf9e95dabc71bf3fb46c450feab90b79&scene=18#wechat_redirect
-        newspaper: https://author.baidu.com/home?context=%7B%22app_id%22%3A1696274178245397%7D&wfr=bjh
+        newspaper-o: https://author.baidu.com/home?context=%7B%22app_id%22%3A1696274178245397%7D&wfr=bjh
 
     pages:
         图库 :
