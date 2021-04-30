@@ -1,5 +1,4 @@
 ---
-layout: my
 title: willings
 date: 2021-04-30 07:52:15
 tags: 日记
