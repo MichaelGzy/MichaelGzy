@@ -13,5 +13,5 @@ docker image
     redis:6.0-alpine
     
 # launch
-[](https://www.zhenxishenghuo.club/images/article/redis-workload.png)
+![like this](https://www.zhenxishenghuo.club/images/article/redis-workload.png)
 
