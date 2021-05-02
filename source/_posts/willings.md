@@ -7,5 +7,5 @@ thumbnail: https://www.zhenxishenghuo.club/images/article/money.jpg
 ---
 
 # 我的愿望
-[willings](https://www.zhenxishenghuo.club/images/404.jpg)
+![willings](https://www.zhenxishenghuo.club/images/404.jpg)
 
