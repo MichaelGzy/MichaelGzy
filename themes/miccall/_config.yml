@@ -24,7 +24,11 @@ Nav:
     # for more icons, please see http://fontawesome.io/icons/#brand
     icon:
         github: https://github.com/michaelgzy
-        michael: http://www.zhenxishenghuo.club
+        twitter: http://www.twitter.com/michael43464888
+        weibo: https://weibo.com/u/7586489380
+#        wechat: https://www.zhenxishenghuo.club/images/gzh.jpg
+        wechat: http://mp.weixin.qq.com/mp/homepage?__biz=MzIxNjc4NTUwOA==&hid=8&sn=bf9e95dabc71bf3fb46c450feab90b79&scene=18#wechat_redirect
+        newspaper-o: https://author.baidu.com/home?context=%7B%22app_id%22%3A1696274178245397%7D&wfr=bjh
 
     pages:
         图库 :
@@ -35,6 +39,8 @@ Nav:
             link: "/group/"
         作者:
             link: "/about/"
+        其他:
+            link: "/others/"
         #自定义标签名
         #   link：“路径”
 
@@ -46,7 +52,7 @@ MainFirst:
 
 Gallery :
     title: Mr.michael
-    description: Just another fine responsive
+    description: Remember the dida of life
 
 # ---------------------------------------------------------------
 # Style Settings
