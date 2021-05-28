@@ -1,5 +1,5 @@
 ---
-title: database_manager_tools_yearning
+title: 数据库管理工具_yearning
 date: 2021-05-28 15:04:49
 tags: database
 categories: 技术篇
