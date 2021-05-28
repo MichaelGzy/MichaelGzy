@@ -4314,7 +4314,7 @@
 	.page_title h1{
 		position:absolute;
 		font-size: 3rem;
-		text-shadow:6px 5px 10px #000;
+		text-shadow:6px 5px 10px #eee;
 		bottom:2px;
 		font-weight: bold;
 		padding-left: 5%;
@@ -4324,19 +4324,19 @@
 		position:absolute;
 		font-size: 2rem;
 		font-weight: bold;
-		text-shadow:6px 5px 10px #000;
+		text-shadow:6px 5px 10px #eee;
 		bottom:2px;
 		padding-left: 5%;
-		color:#eeeeee;
+		color:#000000;
 	}
 	.page_title h3{
 		position:absolute;
 		font-size: 1rem;
 		font-weight: bold;
-		text-shadow:6px 5px 10px #000;
+		text-shadow:6px 5px 10px #eee;
 		bottom:2px;
 		padding-left: 5%;
-		color:#eeeeee;
+		color:#000000;
 	}
 
 /* post-contant */
