@@ -3,7 +3,7 @@ title: install-mariadb-in-rancher
 date: 2021-05-02 15:58:00
 tags: 数据库
 categories: 技术篇
-thumbnail: https://www.zhenxishenghuo.club/images/article/mariadb_mysql.jpg
+thumbnail: https://michaelgzy.zhenxishenghuo.club/images/article/mariadb_mysql.jpg
 ---
 
 # deploy a workload
@@ -31,4 +31,4 @@ volumes
 
 # lanch
     
-![like this](https://www.zhenxishenghuo.club/images/article/mariadb_install.png)
+![like this](https://michaelgzy.zhenxishenghuo.club/images/article/mariadb_install.png)

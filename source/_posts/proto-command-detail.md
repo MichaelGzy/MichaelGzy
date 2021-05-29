@@ -3,7 +3,7 @@ title: proto-command-detail
 date: 2021-05-05 10:12:12
 tags: rpc
 categories: 技术篇
-thumbnail: https://www.zhenxishenghuo.club/images/article/money.jpg
+thumbnail: https://michaelgzy.zhenxishenghuo.club/images/article/money.jpg
 ---
 
 # ProtoBuf

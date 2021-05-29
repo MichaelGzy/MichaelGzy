@@ -3,7 +3,7 @@ title: 停止阿里云ecs监控
 date: 2021-05-05 08:52:20
 tags: 阿里云
 categories: 技术篇
-thumbnail: https://www.zhenxishenghuo.club/images/article/aliyun.png
+thumbnail: https://michaelgzy.zhenxishenghuo.club/images/article/aliyun.png
 ---
 
 # 重启阿里云云监控

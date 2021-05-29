@@ -4,7 +4,7 @@
 
 ## Introduce
 
-   This is  [michaelgzy's blog](https://www.zhenxishenghuo.club),hi,there.
+   This is  [michaelgzy's blog](https://michaelgzy.zhenxishenghuo.club),hi,there.
 
 ## Structure
 1. home
@@ -24,7 +24,7 @@ vx:NDI5NTM0NTMz (same)
 
 #### Donate
 
-![donate](https://www.zhenxishenghuo.club/images/pay_info.png)
+![donate](https://michaelgzy.zhenxishenghuo.club/images/pay_info.png)
 
 
 

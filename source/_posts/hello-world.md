@@ -2,7 +2,7 @@
 title: Hello World
 date: 2021-04-28 00:00:00
 categories: 技术篇
-thumbnail: https://www.zhenxishenghuo.club/images/article/helloworld.jpg
+thumbnail: https://michaelgzy.zhenxishenghuo.club/images/article/helloworld.jpg
 ---
 Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [documentation](https://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](https://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
 
@@ -42,4 +42,4 @@ More info: [Deployment](https://hexo.io/docs/one-command-deployment.html)
 
 #### Donate
 
-![donate](https://www.zhenxishenghuo.club/images/pay_info.png)
+![donate](https://michaelgzy.zhenxishenghuo.club/images/pay_info.png)
