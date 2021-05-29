@@ -7,6 +7,6 @@ thumbnail: https://developers.google.cn/analytics/images/universal-analytics_480
 ---
 
 资源:
-[传送门][https://marketingplatform.google.com/about/analytics/]
+[传送门](https://marketingplatform.google.com/about/analytics/)
 
 ![like_this](https://developers.google.cn/analytics/images/universal-analytics_480.png)

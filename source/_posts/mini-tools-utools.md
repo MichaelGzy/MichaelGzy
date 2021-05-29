@@ -7,6 +7,6 @@ thumbnail: https://u.tools/assets/img/utools-plugins.png
 ---
 
 资源:
-[传送门][https://u.tools/]
+[传送门](https://u.tools/)
 
 ![like_this](https://u.tools/assets/img/utools-plugins.png)

@@ -7,7 +7,7 @@ thumbnail: https://michaelgzy.zhenxishenghuo.club/images/article/cloudflare.jpg
 ---
 
 website: 
-[传送门][https://www.cloudflare.com/]
+[传送门](https://www.cloudflare.com/)
 
 # 1. 注册
 按步骤注册即可,需要邮箱确认,无其他套路

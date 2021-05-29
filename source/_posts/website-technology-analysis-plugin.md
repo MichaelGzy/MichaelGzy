@@ -7,7 +7,7 @@ thumbnail: https://img.onlinedown.net/download/202008/093601-5f35ea81e684b.jpeg
 ---
 
 资源(github pages):
-[传送门][https://www.wappalyzer.com/]
+[传送门](https://www.wappalyzer.com/)
 
 浏览器插件,
 自行搜索安装

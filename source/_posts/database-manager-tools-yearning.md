@@ -9,4 +9,4 @@ thumbnail: https://wuchen-1252812685.cos.ap-shanghai.myqcloud.com/img/yearning/2
 # yearning
 
 资源:
-[传送门][http://yearning.io/]
+[传送门](http://yearning.io/)
