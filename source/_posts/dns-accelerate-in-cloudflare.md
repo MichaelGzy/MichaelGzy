@@ -3,7 +3,7 @@ title: dns服务_cloudflare
 date: 2021-05-28 14:40:00
 tags: dns
 categories: 技术篇
-thumbnail: https://www.zhenxishenghuo.club/images/article/cloudflare.jpg
+thumbnail: https://michaelgzy.zhenxishenghuo.club/images/article/cloudflare.jpg
 ---
 
 website: 
@@ -14,4 +14,4 @@ website:
 
 # 2. 配置
 
-![func](https://www.zhenxishenghuo.club/images/article/cloudflare.jpg)
+![func](https://michaelgzy.zhenxishenghuo.club/images/article/cloudflare.jpg)
