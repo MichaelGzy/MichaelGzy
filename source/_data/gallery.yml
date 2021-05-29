@@ -1,3 +1,23 @@
+doge:
+  full_link: /images/gallery/doge.jpg
+  thumb_link: /images/gallery/doge.jpg
+  descr: 收藏
+jump:
+  full_link: /images/gallery/jump.jpg
+  thumb_link: /images/gallery/jump.jpg
+  descr: 收藏
+jump1:
+  full_link: /images/gallery/jump1.jpg
+  thumb_link: /images/gallery/jump1.jpg
+  descr: 收藏
+wxklpd:
+  full_link: /images/gallery/wxklpd.jpg
+  thumb_link: /images/gallery/wxklpd.jpg
+  descr: 收藏
+beauty:
+  full_link: /images/gallery/beauty.jpg
+  thumb_link: /images/gallery/beauty.jpg
+  descr: 收藏
 艾薇儿1:
   full_link: /images/gallery/艾薇儿1.jpg
   thumb_link: /images/gallery/艾薇儿1.jpg
