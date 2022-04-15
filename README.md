@@ -24,8 +24,7 @@ vx:NDI5NTM0NTMz (same)
 
 #### Donate
 
-![donate](https://michaelgzy.zhenxishenghuo.club/images/pay_info.png)
-
+not support 
 
 
 <!--
